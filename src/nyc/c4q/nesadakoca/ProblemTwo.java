@@ -18,8 +18,5 @@ package nyc.c4q.nesadakoca;
 
        return "'You are either " + (age - 1) + " or " + age +".";
 
-
-
-
     }
 }

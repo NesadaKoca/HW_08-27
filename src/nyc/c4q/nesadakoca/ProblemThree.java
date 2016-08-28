@@ -36,7 +36,5 @@ public class ProblemThree {
 
         return totalX == totalO;
     }
-
-
 }
 

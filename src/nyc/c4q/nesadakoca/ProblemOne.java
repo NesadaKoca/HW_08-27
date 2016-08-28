@@ -18,7 +18,5 @@ public class ProblemOne {
         result = a + b;
 
         return result;
-
-
     }
 }
